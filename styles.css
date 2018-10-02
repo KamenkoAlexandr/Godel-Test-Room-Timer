@@ -1,0 +1,18 @@
+.wrapper{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.room-on-top{
+    width: 497px;
+    height: 493px;
+    background-image: url("./images/floor.png");
+    background-size: 500px 500px;
+}
+
+#circle {
+    margin-top: 7px;
+    margin-left: 441px;
+}
+
+
